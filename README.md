@@ -14,7 +14,7 @@ through guides, documentation, marketing content, UX copy, and more.
 
 Recently, I completed cybersecurity-related courses and am continuing to expand my knowledge in this field. I'm a fast learner, curious, and detail-oriented – with a strong ability to adapt my writing to different tones and audiences.
 
-For examples of my writing, please have a look at my GitHub repository. 
+For examples of my writing, please have a look at my [**GitHub repository**] (https://github.com/EvgeniaShulkes/Cybersecurity) 
 You’re also welcome to check out
 
 - **LinkedIn**: [Evgenia Shulkes](https://www.linkedin.com/in/turn2evgenia/)
