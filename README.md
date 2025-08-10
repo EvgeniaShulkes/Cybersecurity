@@ -5,6 +5,10 @@ I speak **5** languages (**Hebrew, English, French, Russian, and German**),
 and have over **12** years of experience making complex ideas easy to understand –
 through guides, documentation, marketing content, UX copy, and more.
 
+## **What I do** ##
+* Technical & UX Writing
+
+
 Recently, I completed cybersecurity-related courses and am continuing to expand my knowledge in this field. I'm a fast learner, curious, and detail-oriented – with a strong ability to adapt my writing to different tones and audiences.
 
 For examples of my writing, please have a look at my Repository. 
